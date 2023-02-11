@@ -9,7 +9,7 @@
 .main{
     margin: 0;
     padding: 0;
-    background-image: url(/top-banner.png);
+    background-image: url(/images/top-banner.png);
     background-repeat: no-repeat;
 }
 .wrap{
@@ -39,7 +39,7 @@
 }
 .secondpart{
         margin-top: 60px;
-        background-image: url(/dream-bg.png);
+        background-image: url(/images/dream-bg.png);
         background-repeat: no-repeat;
         background-position: right bottom;
 }
@@ -71,7 +71,7 @@
     justify-content: space-between;
     background-position: left;
     background-repeat: no-repeat;
-    background-image: url(/exp-bg.png);
+    background-image: url(/images/exp-bg.png);
 }
 .card1 {
     width: 40%;
